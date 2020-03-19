@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iengiefeke.podigious.com/sitemap.xml
